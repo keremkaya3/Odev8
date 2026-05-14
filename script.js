@@ -3,7 +3,7 @@ let ogrenciNo = 24301021;
 let dogumYili = 2007;
 let bolum = "Bilgisayar Mühendisliği";
 let mezunMu = false;
-let notOrtalamasi = 94;
+let notOrtalamasi = 0;
 
 console.log("Adım:" ,ogrenciAdi);
 console.log("Numaram:" ,ogrenciNo);
